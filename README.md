@@ -21,6 +21,13 @@ so here's the summary in one script.
 
 Tested only on macOS Catalina.
 
+## References
+
+The process of generating a SAN certificate is described here:
+
+https://geekflare.com/san-ssl-certificate/  
+https://support.citrix.com/article/CTX135602  
+
 ## License
 
 MIT
