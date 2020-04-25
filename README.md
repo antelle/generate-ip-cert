@@ -19,7 +19,7 @@ While it's easy to make a self-signed SSL certificate for a hostname, doing it f
 is a bit more complicated. I found several guides on Internet that didn't work for me,
 so here's the summary in one script.
 
-Tested only on macOS Catalina.
+Tested on macOS Catalina and Ubuntu.
 
 ## References
 
